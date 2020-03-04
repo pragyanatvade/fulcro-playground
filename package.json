@@ -1,0 +1,24 @@
+{
+  "name": "fulcro-playground",
+  "version": "1.0.0",
+  "description": "Testing out fulcro for CLJS Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pragyansden/fulcro-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pragyansden/fulcro-playground/issues"
+  },
+  "homepage": "https://github.com/pragyansden/fulcro-playground#readme",
+  "dependencies": {
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "shadow-cljs": "^2.8.90"
+  }
+}
